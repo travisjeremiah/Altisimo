@@ -23,7 +23,7 @@
       </nav>
       <img class = "nimg" src="https://img.grouponcdn.com/iam/sFQGTe4yJR6nqghXgmZR/wr-2048x1229/v1/c700x420.jpg" alt="Tacos">
       <ul class="menu">
-        <li>Menu</li>
+        <li><a href="Menu">Menu</a></li>
         <li>Order</li>
       </ul>
     </section>

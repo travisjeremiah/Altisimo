@@ -23,7 +23,7 @@
       </nav>
       <img class = "nimg" src="https://img.grouponcdn.com/iam/sFQGTe4yJR6nqghXgmZR/wr-2048x1229/v1/c700x420.jpg" alt="Tacos">
       <ul class="menu">
-        <li>Menu</li>
+        <li><a href="Menu">Menu</a></li>
         <li>Order</li>
       </ul>
     </section>
@@ -34,7 +34,7 @@
     <p>      <img class = "AB" src="https://241pdx45jlhr7p4mscz18i1c-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/APC-2.jpg" alt="AB">
 
       Lindsay moved to Denver from Fort Collins where she studied Food Crop Production.
-      She has worked in greenhouses, as a researcher, and most recently as a dental lab technician.
+      She has worked in greenhouses, as a researcher, and most recently as a dental lab technician. Her languages include HTML, CSS and JS.
       She makes soap and runs a bookclub.  Currently she is planning a trip north to see the Aurora Borealis.
     </p>
 
