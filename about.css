@@ -1,0 +1,100 @@
+body{
+  background-image: url("http://wallpapercave.com/wp/tTuFP5q.jpg");
+
+}
+
+.head {
+  font-family: 'Cinzel', serif;
+  font-size: 55px;
+  display: flex;
+  padding: 10px;
+  align-items: center;
+  justify-content: space-around;
+
+}
+ .himg {
+   height: 330px;
+   align-self: flex-end;
+ }
+
+ .side {
+   display: inline-block;;
+   width: 331px;
+   background-color: orange;
+   float: right;
+   height: 715px;
+   margin-right: 62px;
+   margin-top: 30px;
+ }
+
+
+.nimg {
+  padding-right: 60px;
+  width: 310px;
+  height: 250px;
+  margin-left: 10px;
+}
+h2 {
+  font-family: 'Cinzel', serif;
+  margin-left: 30px;
+}
+
+.Lindsay p{
+  font-size: 31px;
+}
+
+.LP {
+  height: 240px;
+  float: left;
+  margin-right: 20px;
+}
+
+.AB {
+  height: 200px;
+  padding-top: 10px;
+  margin-right: 20px;
+  float: right;
+}
+
+
+.Travis p{
+  font-size: 31px;
+}
+
+.TP {
+  height: 240px;
+  float: left;
+  margin-right: 20px;
+}
+
+.CP {
+  height: 200px;
+  padding-top: 10px;
+  margin-right: 20px;
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  font-family: 'Cinzel', serif;
+  font-size: 40px
+}
+p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 28px;
+  margin: 20px;
+}
+
+footer {
+  display: flex;
+  justify-content: flex-end;
+  background-color: lightgrey;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+}

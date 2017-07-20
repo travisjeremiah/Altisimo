@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="tacos.css">
+    <link href="https://fonts.googleapis.com/css?family=Cinzel|Raleway" rel="stylesheet">
+    <title>Tacos from the Sky!!!</title>
+  </head>
+  <body class="body">
+    <header class="head">
+      <h1>Altisimo Tacos</h1>
+      <img class = "himg" src="https://pbs.twimg.com/profile_images/617150968233349121/NwaezpPu_400x400.jpg" alt="Taco Drone">
+    </header>
+
+    <section class="side">
+      <nav class="main">
+        <ul>
+          <li><a href="Home">Home</a></li>
+          <li><a href="About Us">About Us</a></li>
+          <li>Contact</li>
+          <li>Profile</li>
+        </ul>
+      </nav>
+      <img class = "nimg" src="https://img.grouponcdn.com/iam/sFQGTe4yJR6nqghXgmZR/wr-2048x1229/v1/c700x420.jpg" alt="Tacos">
+      <ul class="menu">
+        <li>Menu</li>
+        <li>Order</li>
+      </ul>
+    </section>
+
+
+    <section class = "intro">
+        <p class="intro-p">Here at Altisimo Tacos we live by a simple rule: No taco should be a disappointment.
+          It is in that spirit that we have created the most convenient taco delivery system you will experience.
+          Using our black market drones and flaunting all FAA regulations, we have decided to serve you,
+          the taco enthusiasts throughout Denver.
+          No more soggy, ripping or dry tacos, our temperature and humidity controlled containers are
+          specifically designed to deliver made to order Taco-vana.
+        </p>
+        <img class="drone" src="taco-drone.jpg" alt="Drone">
+
+
+        <p>With our drone delivery system, we can guarantee that along with a delivery window all the way to 4 A.M.,
+           we can also ensure that no traffic jams, fender benders, or sharp turns will ever damage your tacos.
+           We cater to all order sizes and groups, as long as your order fits our $15 minimum. </p>
+
+        <p>As true taco enthusiasts, we know how important and far reaching the effects of a good taco can be.
+           That is why we have taken the responsibility of denying "The Man" his ability to keep our taco goodness down.
+           </p>
+        <p class = "tagline">Where no one will stand, we will fly.</p>
+      </section>
+
+    <footer>Copyright © 2017 - All Rights Reserved - Altisimo Tacos International
+    </footer>
+
+  </body>
+</html>

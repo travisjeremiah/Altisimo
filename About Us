@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="about.css">
+    <link href="https://fonts.googleapis.com/css?family=Cinzel|Raleway" rel="stylesheet">
+    <title>About Us!</title>
+  </head>
+  <body class="body">
+    <header class="head">
+      <h1>Altisimo Tacos</h1>
+      <img class = "himg" src="https://pbs.twimg.com/profile_images/617150968233349121/NwaezpPu_400x400.jpg" alt="Taco Drone">
+    </header>
+
+    <section class="side">
+      <nav class="main">
+        <ul>
+          <li><a href="Home">Home</a></li>
+          <li><a href="About Us">About Us</a></li>
+          <li>Contact</li>
+          <li>Profile</li>
+        </ul>
+      </nav>
+      <img class = "nimg" src="https://img.grouponcdn.com/iam/sFQGTe4yJR6nqghXgmZR/wr-2048x1229/v1/c700x420.jpg" alt="Tacos">
+      <ul class="menu">
+        <li>Menu</li>
+        <li>Order</li>
+      </ul>
+    </section>
+
+
+  <section class = "Lindsay">
+    <img class= "LP" src="lindsay.jpeg" alt="profile">
+    <p>      <img class = "AB" src="https://241pdx45jlhr7p4mscz18i1c-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/APC-2.jpg" alt="AB">
+
+      Lindsay moved to Denver from Fort Collins where she studied Food Crop Production.
+      She has worked in greenhouses, as a researcher, and most recently as a dental lab technician.
+      She makes soap and runs a bookclub.  Currently she is planning a trip north to see the Aurora Borealis.
+    </p>
+
+  </section>
+
+  <section class="Travis">
+    <img class="TP" src="travis.png" alt="profile">
+    <p class = "T">     <img class="CP" src="http://militaryingermany.com/wp-content/uploads/2014/11/Neu2.jpg" alt="Castle">
+
+      Travis moved to Denver fleeing the rent hikes of San Francisco, with the goal of one day graduating Galvanize.
+        With English as his only language, he's doing just fine. Working in multiple industries such as animal care and retail,
+        he fully understands the need for on demand tacos.  In his off time, Travis enjoys building computers and
+        playing board games such as Dark Souls and Betrayal at House on the Hill.
+    </p>
+  </section>
+    <footer>Copyright © 2017 - All Rights Reserved - Altisimo Tacos International
+    </footer>
+
+  </body>
+</html>
